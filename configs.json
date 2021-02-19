@@ -1,0 +1,12 @@
+{
+    "prefs": {
+        "download.default_directory": "downloads\\",
+        "download.prompt_for_download": "false",
+        "download.directory_upgrade": "true"
+    },
+    "args": [
+        "--disable-extensions",
+        "--window-size=1920,1080",
+        "--start-maximized"
+    ]
+}
